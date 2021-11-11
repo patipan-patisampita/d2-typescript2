@@ -1,0 +1,10 @@
+var first = 12.0;
+var second = 0x37cf;
+var third = 255;
+var fourth = 57;
+var five = 50;
+console.log(first);
+console.log(second);
+console.log(third);
+console.log(fourth);
+console.log(five);
